@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1ab37500.css",
+    "main.js": "/static/js/main.8a92152d.js",
+    "static/js/787.d8c6ec95.chunk.js": "/static/js/787.d8c6ec95.chunk.js",
+    "static/media/crackedEgg.gif": "/static/media/crackedEgg.3b4f9e8c8aec8c7e29f5.gif",
+    "static/media/Baked.jpg": "/static/media/Baked.8945947bac618dc75e7c.jpg",
+    "static/media/Over.jpg": "/static/media/Over.4958faf68382b1fbbaeb.jpg",
+    "static/media/Poached.jpg": "/static/media/Poached.2a77411e0b9efafd79d8.jpg",
+    "static/media/Sunny.jpg": "/static/media/Sunny.206bb634e8605f939d1e.jpg",
+    "static/media/Hard.jpg": "/static/media/Hard.666d0866263e94bef580.jpg",
+    "static/media/Scrambled.jpg": "/static/media/Scrambled.941a3839e9040f7709dc.jpg",
+    "static/media/Soft.jpg": "/static/media/Soft.59e26477d865ca37e436.jpg",
+    "static/media/Omelette.jpg": "/static/media/Omelette.afdd2fb764f4a7654e5e.jpg",
+    "index.html": "/index.html",
+    "main.1ab37500.css.map": "/static/css/main.1ab37500.css.map",
+    "main.8a92152d.js.map": "/static/js/main.8a92152d.js.map",
+    "787.d8c6ec95.chunk.js.map": "/static/js/787.d8c6ec95.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ab37500.css",
+    "static/js/main.8a92152d.js"
+  ]
+}
