@@ -15,7 +15,7 @@
     "test": "jest",
     "test:watch": "jest --watch",
     "dev": "nodemon",
-    "start": "nodemon"
+    "start": "node"
   },
   "dependencies": {
     "body-parser": "^1.20.0",
